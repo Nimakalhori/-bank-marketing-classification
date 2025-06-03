@@ -37,7 +37,7 @@ This repository contains a professional classification project developed as part
 * 🏆 **Best Model**: Tuned Gradient Boosting with threshold optimization.
 * 📈 **Evaluation**: Confusion matrix, F1-score, and McNemar’s test.
 * ⚙️ **Refinements**: Threshold optimization, feature interaction, stacking.
-* ⏱️ **Execution Time Analysis**: Compared inference time, and performance.
+* ⏱️ **Execution Time Analysis**: Compared inference time and performance.
 
 ---
 
